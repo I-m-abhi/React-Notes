@@ -27,3 +27,4 @@
 <p>-This helps developers identify and diagnose issues during the development process.</p>
 
 <img src="https://logodesign.net/logo/smoking-burger-with-lettuce-3624ld.png" alt="" />
+<a href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#attr-type'>type attribute in script tag</a>
